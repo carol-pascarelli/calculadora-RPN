@@ -31,6 +31,9 @@ Para cada token:
 ### 4. Resultado
 Ao final da expressão, o topo da pilha contém o resultado, que é impresso na tela.
 
+&emsp; A seguir é possível verificar o funcionamento da calculadora
+
+<img src="calculadoraRPN.png" width="400"/>
 
 ## Como executar 
 
